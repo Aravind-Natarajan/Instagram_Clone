@@ -1,0 +1,585 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "black_luvr",
+        "profile_pic": "/src/assets/kayadu.jpg"
+      },
+      "image": "/src/assets/mokka.avif",
+      "caption": "Beautiful sunset  🌴🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "usern": "sunny_days",
+          "comment": "Dreamy view!"
+        },
+        {
+          "user": "beachlover",
+          "comment": "Where is this?"
+        }
+      ],
+      "timestamp": "2025-04-30T10:24:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "foodiequeen",
+        "profile_pic": "/src/assets/vijay.jpg"
+      },
+      "image": "/src/assets/vijay.jpg",
+      "caption": "Best burger in town! 🍔🔥 #foodporn",
+      "likes": 123,
+      "comments": [
+        {
+          "usern": "sunny_days",
+          "comment": "Dreamy view!"
+        },
+        {
+          "user": "beachlover",
+          "comment": "Where is this?"
+        }
+      ],
+      "timestamp": "2025-04-29T15:45:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "black_luvr",
+        "profile_pic": "/src/assets/cm.jpg"
+      },
+      "image": "/src/assets/kayadu1.jpg",
+      "caption": "Beautiful sunset  🌴🌅 #Nature",
+      "likes": 9,
+      "comments": [
+        {
+          "usern": "sunny_days",
+          "comment": "Dreamy view!"
+        },
+        {
+          "user": "beachlover",
+          "comment": "Where is this?"
+        }
+      ],
+      "timestamp": "2025-04-30T10:24:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "black_luvr",
+        "profile_pic": "/src/assets/ronald.jpg"
+      },
+      "image": "/src/assets/ronald.jpg",
+      "caption": "Beautiful sunset  🌴🌅 #Nature",
+      "likes": "1.5k",
+      "comments": [
+        {
+          "usern": "sunny_days",
+          "comment": "Dreamy view!"
+        },
+        {
+          "user": "beachlover",
+          "comment": "Where is this?"
+        }
+      ],
+      "timestamp": "2025-04-30T10:24:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "black_luvr",
+        "profile_pic": "/src/assets/dhoni.jpg"
+      },
+      "image": "/src/assets/dhoni.jpg",
+      "caption": "Beautiful sunset  🌴🌅 #Nature",
+      "likes": 570,
+      "comments": [
+        {
+          "usern": "sunny_days",
+          "comment": "Dreamy view!"
+        },
+        {
+          "user": "beachlover",
+          "comment": "Where is this?"
+        }
+      ],
+      "timestamp": "2025-04-30T10:24:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "black_luvr",
+        "profile_pic": "/src/assets/butter.jpg"
+      },
+      "image": "/src/assets/butter.jpg",
+      "caption": "Beautiful sunset  🌴🌅 #Nature",
+      "likes": "126k",
+      "comments": [
+        {
+          "usern": "sunny_days",
+          "comment": "Dreamy view!"
+        },
+        {
+          "user": "beachlover",
+          "comment": "Where is this?"
+        }
+      ],
+      "timestamp": "2025-04-30T10:24:00Z"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 107,
+        "username": "petal_power",
+        "profile_pic": "/src/assets/meme1.jpg"
+      },
+      "image": "/src/assets/meme1.jpg",
+      "caption": "Spring in full bloom 🌸🌼",
+      "likes": "50k",
+      "comments": [
+        {
+          "usern": "florafriend",
+          "comment": "So pretty!"
+        },
+        {
+          "user": "petalpix",
+          "comment": "Which flower is that?"
+        }
+      ],
+      "timestamp": "2025-04-20T13:30:00Z"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 108,
+        "username": "cloud_watcher",
+        "profile_pic": "/src/assets/danger.jpg"
+      },
+      "image": "/src/assets/car.gif",
+      "caption": "Cotton candy skies ☁️💖",
+      "likes": "63k",
+      "comments": [
+        {
+          "usern": "skygazer",
+          "comment": "Heavenly!"
+        },
+        {
+          "user": "driftaway",
+          "comment": "Is that edited?"
+        }
+      ],
+      "timestamp": "2025-04-21T18:15:00Z"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 109,
+        "username": "desert_dunes",
+        "profile_pic": "/src/assets/ff.jpg"
+      },
+      "image": "/src/assets/meme2.jpeg",
+      "caption": "Wandering the sands 🐪🏜️",
+      "likes": "38k",
+      "comments": [
+        {
+          "usern": "heatwave",
+          "comment": "Amazing shot!"
+        },
+        {
+          "user": "nomadstyle",
+          "comment": "Where was this taken?"
+        }
+      ],
+      "timestamp": "2025-04-22T11:40:00Z"
+    },
+    {
+      "id": "10",
+      "user": {
+        "id": 110,
+        "username": "rainy_dayz",
+        "profile_pic": "/src/assets/gadget.jpg"
+      },
+      "image": "/src/assets/robo.gif",
+      "caption": "Raindrops and reflections 💧☔",
+      "likes": "29k",
+      "comments": [
+        {
+          "usern": "puddlegram",
+          "comment": "Mood!"
+        },
+        {
+          "user": "drizzle",
+          "comment": "Calm vibes."
+        }
+      ],
+      "timestamp": "2025-04-23T15:00:00Z"
+    },
+    {
+      "id": "11",
+      "user": {
+        "id": 111,
+        "username": "hiker_joe",
+        "profile_pic": "/src/assets/profile.jpg"
+      },
+      "image": "/src/assets/nature.gif",
+      "caption": "Another trail conquered 💪🥾",
+      "likes": "72k",
+      "comments": [
+        {
+          "usern": "pathfinder",
+          "comment": "Love that place!"
+        },
+        {
+          "user": "naturebuff",
+          "comment": "Hard climb?"
+        }
+      ],
+      "timestamp": "2025-04-24T10:10:00Z"
+    },
+    {
+      "id": "12",
+      "user": {
+        "id": 112,
+        "username": "northern_lights",
+        "profile_pic": "/src/assets/meme.avif"
+      },
+      "image": "/src/assets/meme.avif",
+      "caption": "Dancing lights in the sky 💚💜",
+      "likes": "110k",
+      "comments": [
+        {
+          "usern": "aurorachaser",
+          "comment": "WOW!"
+        },
+        {
+          "user": "icyglow",
+          "comment": "Where did you see this?"
+        }
+      ],
+      "timestamp": "2025-04-19T21:00:00Z"
+    },
+    {
+      "id": "13",
+      "user": {
+        "id": 113,
+        "username": "campfire_stories",
+        "profile_pic": "/src/assets/ktm.jpg"
+      },
+      "image": "/src/assets/reader.gif",
+      "caption": "Warm nights and old tales 🔥🏕️",
+      "likes": "67k",
+      "comments": [
+        {
+          "usern": "woodland",
+          "comment": "I miss camping!"
+        },
+        {
+          "user": "s'mores",
+          "comment": "Save me a seat!"
+        }
+      ],
+      "timestamp": "2025-04-18T22:15:00Z"
+    },
+    {
+      "id": "14",
+      "user": {
+        "id": 114,
+        "username": "retro_vibes",
+        "profile_pic": "/src/assets/kayadu.jpg"
+      },
+      "image": "/src/assets/vijay.gif",
+      "caption": "Throwback to good times 🎞️📻",
+      "likes": "44k",
+      "comments": [
+        {
+          "usern": "nostalgia",
+          "comment": "Memories!"
+        },
+        {
+          "user": "timetraveler",
+          "comment": "What year?"
+        }
+      ],
+      "timestamp": "2025-04-17T17:45:00Z"
+    },
+    {
+      "id": "15",
+      "user": {
+        "id": 115,
+        "username": "street_snap",
+        "profile_pic": "/src/assets/dhoni.jpg"
+      },
+      "image": "/src/assets/meme4.jpg",
+      "caption": "Urban frames 🏙️📸",
+      "likes": "39k",
+      "comments": [
+        {
+          "usern": "concretejungle",
+          "comment": "Epic angle!"
+        },
+        {
+          "user": "downtownlife",
+          "comment": "This spot looks cool!"
+        }
+      ],
+      "timestamp": "2025-04-16T13:55:00Z"
+    },
+    {
+      "id": "16",
+      "user": {
+        "id": 116,
+        "username": "sky_bound",
+        "profile_pic": "/src/assets/ronald.jpg"
+      },
+      "image": "/src/assets/news.gif",
+      "caption": "Floating on air ✈️☁️",
+      "likes": "58k",
+      "comments": [
+        {
+          "usern": "cloudrider",
+          "comment": "Dream flight!"
+        },
+        {
+          "user": "airfan",
+          "comment": "What altitude?"
+        }
+      ],
+      "timestamp": "2025-04-15T08:25:00Z"
+    },
+    {
+      "id": "17",
+      "user": {
+        "id": 117,
+        "username": "kayadu_fans_club",
+        "profile_pic": "/src/assets/kayadu.jpg"
+      },
+      "image": "/src/assets/profile.jpg",
+      "caption": "Coffee break ☕💭",
+      "likes": "210k",
+      "comments": [
+        {
+          "usern": "brewbuddy",
+          "comment": "Which café?"
+        },
+        {
+          "user": "caffeinevibes",
+          "comment": "Looks smooth!"
+        }
+      ],
+      "timestamp": "2025-04-14T11:05:00Z"
+    },
+    {
+      "id": "18",
+      "user": {
+        "id": 118,
+        "username": "samy_kumduga",
+        "profile_pic": "/src/assets/robo.gif"
+      },
+      "image": "/src/assets/samy.avif",
+      "caption": "Still waters run deep 💙🏞️",
+      "likes": "43k",
+      "comments": [
+        {
+          "usern": "stillness",
+          "comment": "Such calmness!"
+        },
+        {
+          "user": "boathaven",
+          "comment": "Beautiful view!"
+        }
+      ],
+      "timestamp": "2025-04-13T10:45:00Z"
+    },
+    {
+      "id": "19",
+      "user": {
+        "id": 119,
+        "username": "instagram_official",
+        "profile_pic": "/src/assets/instagram.svg"
+      },
+      "image": "/src/assets/ff.jpg",
+      "caption": "Stars above, peace within 🌌🖤",
+      "likes": "93k",
+      "comments": [
+        {
+          "usern": "astrolover",
+          "comment": "Milky Way vibes!"
+        },
+        {
+          "user": "stargazer",
+          "comment": "This is incredible!"
+        }
+      ],
+      "timestamp": "2025-04-12T23:10:00Z"
+    },
+    {
+      "id": "20",
+      "user": {
+        "id": 120,
+        "username": "river_runner",
+        "profile_pic": "/src/assets/ff.jpg"
+      },
+      "image": "/src/assets/kayadu1.jpg",
+      "caption": "Flowing fast and free 🚣🌊",
+      "likes": "32k",
+      "comments": [
+        {
+          "usern": "kayak_king",
+          "comment": "Nice route!"
+        },
+        {
+          "user": "wetwild",
+          "comment": "Adrenaline rush!"
+        }
+      ],
+      "timestamp": "2025-04-11T14:30:00Z"
+    }
+  ],
+  "profiles": {
+    "id": 101,
+    "username": "Kayadu_lohar",
+    "profile_pic": "/src/assets/kayadu.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "black_luvr",
+      "profile_pic": "/src/assets/kayadu1.jpg"
+    },
+    {
+      "id": "102",
+      "username": "foodiequeen",
+      "profile_pic": "/src/assets/vijay.jpg"
+    },
+    {
+      "id": "103",
+      "username": "_dark_devil",
+      "profile_pic": "/src/assets/cm.jpg"
+    },
+    {
+      "id": "104",
+      "username": "ns_200_racer",
+      "profile_pic": "/src/assets/ronald.jpg"
+    },
+    {
+      "id": "105",
+      "username": "play_boy_siva",
+      "profile_pic": "/src/assets/dhoni.jpg"
+    },
+    {
+      "id": "106",
+      "username": "wd_bikers",
+      "profile_pic": "/src/assets/butter.jpg"
+    },
+    {
+      "id": "107",
+      "username": "beautiful_queen",
+      "profile_pic": "/src/assets/bea.jpg"
+    },
+    {
+      "id": "108",
+      "username": "KING_queen",
+      "profile_pic": "/src/assets/kayadu.jpg"
+    },
+    {
+      "id": "109",
+      "username": "Danger_Zone_Dude",
+      "profile_pic": "/src/assets/danger.jpg"
+    },
+    {
+      "id": "110",
+      "username": "Fast_Furious",
+      "profile_pic": "/src/assets/ff.jpg"
+    },
+    {
+      "id": "101",
+      "username": "black_luvr",
+      "profile_pic": "/src/assets/kayadu1.jpg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "black_luvr",
+        "profile_pic": "/src/assets/kayadu1.jpg"
+      },
+      "image": "/src/assets/nature.gif"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "foodiequeen",
+        "profile_pic": "/src/assets/vijay.jpg"
+      },
+      "image": "/src/assets/meme1.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "_dark_devil",
+        "profile_pic": "/src/assets/cm.jpg"
+      },
+      "image": "/src/assets/kayadu1.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "news__racer",
+        "profile_pic": "/src/assets/ronald.jpg"
+      },
+      "image": "/src/assets/news.gif"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "play_boy_siva",
+        "profile_pic": "/src/assets/dhoni.jpg"
+      },
+      "image": "/src/assets/yogi.gif"
+    }
+  ],
+  "followers": [
+    {
+      "id": "111",
+      "username": "ktm_wd-biker",
+      "profile_pic": "/src/assets/ktm.jpg"
+    },
+    {
+      "id": "112",
+      "username": "The_Guru_of_Gadgets",
+      "profile_pic": "/src/assets/gadget.jpg"
+    },
+    {
+      "id": "102",
+      "username": "foodiequeen",
+      "profile_pic": "/src/assets/vijay.jpg"
+    },
+    {
+      "id": "101",
+      "username": "black_luvr",
+      "profile_pic": "/src/assets/kayadu1.jpg"
+    },
+    {
+      "id": "101",
+      "username": "black_luvr",
+      "profile_pic": "/src/assets/kayadu1.jpg"
+    },
+    {
+      "id": "101",
+      "username": "black_luvr",
+      "profile_pic": "/src/assets/kayadu1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+.w-20{
+    width: 20%;
+}
+.w-30{
+    width: 30%;
+}
+.logo-text{
+    width: 100px;
+}
+.bi{
+    margin-right: 10px;
+}
+.story{
+    height: 90px;
+    padding: 0px 20px 30px;
+}
+/* .story::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    background-color: #4f5bd5;
+    margin-top: 0;
+} */
+.dp{
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.image{
+    width: 300px;
+}
+
+.suggestions h6{
+    font-size: 16px;
+}
+.suggestions .dp{
+    margin-top: 10px !important;
+}
+.gradient-border{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-image: linear-gradient(45deg,#feda75, #fa7e1e,#d62976, #962fbf, #4f5bd5);
+}
+.story-dp{
+    width: 40px;
+    height: 40px;
+}
+.profile{
+    width: 90px;
+    height: 90px;
+    /* aspect-ratio: 4/4; */
+}
+.gradient-profile{
+    width: 95px;
+    height: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-image: linear-gradient(45deg,#feda75, #fa7e1e,#d62976, #962fbf, #4f5bd5);
+}
+.follow-btn{
+    font-size: 12px;
+    padding:2px 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: rgb(53, 53, 255);
+    color: white;
+}
+.follow-card{
+    padding: 20px;
+    border: 2px solid rgb(179, 179, 179);
+    border-radius: 8px;
+}
+.follow-dp{
+    width: 50px;
+    height: 50px;
+}
+.sidebar-menu{
+   cursor: pointer;
+   padding: 5px 10px;
+   background-color: #ffffff;
+   border-radius: 5px;
+}
+.sidebar-menu:hover{
+    background-color: rgb(221, 221, 221);
+}
+.see-all{
+     color: #acacac;
+     cursor: pointer;
+}
+.see-all:hover{
+    color: #000000;
+}
+
+
